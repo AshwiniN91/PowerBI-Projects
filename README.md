@@ -6,11 +6,12 @@ Repository showcases hands-on PowerBI projects used for KPI tracking, visualizat
 📁 Repository Structure
 Each project is contained in its own folder and includes related .pbix files, sample datasets and documentation.
 
-PowerBI-Projects/
+PowerBI-Projects/ Order Management Analysis/ Order Management Dashboard.pbix / README.md /data
 
-│
-├── Order Management Analysis/
-│   ├── Order Management Dashboard.pbix
-│   ├── README.md
-│   └── data/
+🛠️ Tools Used
+
+- Power BI Desktop
+- Power Query for Data Transformation
+- DAX for custom measures, functions and KPIs
+- CSV files
 
